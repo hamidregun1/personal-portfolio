@@ -2,3 +2,31 @@ body {
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
 }
+
+section {
+    display: flex;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+}
+
+.intro-text {
+    margin-left: 97px;
+    margin-right: 97px;
+}
+
+.intro-text h1 {
+    font-size: 50px;
+
+}
+
+.text-color {
+    color: #FFA500;
+}
+
+.intro-img img {
+    width: 600px;
+    height: 600px;
+    margin-right: 80px;
+}
